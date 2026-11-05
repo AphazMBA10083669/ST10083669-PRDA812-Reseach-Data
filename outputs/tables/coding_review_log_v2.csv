@@ -1,0 +1,70 @@
+Segment,Code,Action,Reason
+S:R08:txt_identity,A3,remove,"'lazy' refers to the user's own thinking, not to clients"
+S:R08:txt_identity,B7,add,concern that AI erodes users' own thinking (B5 in v0.2; moved to B7)
+S:R10:txt_identity,A2,remove,"'efficiencies' framed as pressure, not as a gain"
+S:R04:txt_protections,C5,remove,asks for protection against plagiarism; no incident reported
+S:R08:txt_protections,C5,remove,'stolen' is hypothetical; no incident reported
+S:R02:txt_protections,C2,add,'All of them' = wants every available protection
+S:R06:txt_identity,A2,add,AI framed as accelerating the respondent's progress
+P2@11:51,A1,remove,"negated: lost bids went to other studios, not to clients using AI"
+P2@12:58,A1,remove,negated: 'we haven't been told AI is cheaper'
+P2@12:58,A9,add,no client has attributed a lost bid to AI
+P2@19:43,A2,remove,"automation framed as a threat, not a gain"
+P2@21:26,A2,remove,"automation framed as a threat, not a gain"
+P2@26:03,C2,remove,"describes uncertain awareness, not a call for protection"
+P3@16:07,B2,add,profession will not become redundant; AI is a skill to acquire
+P3@19:20,C2,remove,describes existing IP law rather than calling for more
+P3@19:20,C4,add,asserts that the prompter owns the generated design
+P3@20:18,C4,add,a developer could claim ownership of output from their algorithm
+P3@21:57,A2,remove,"refers to earlier CAD software, not generative AI"
+P2@04:02,A11,remove,career history ('junior character animator'); not about junior roles disappearing
+S:R15:txt_other,A2,add,'achieve with smaller amounts of effort' = efficiency gain
+S:R18:txt_identity,B3,remove,'clear vision' = AI helps visualise ideas; not a claim about human authorship
+S:R19:txt_identity,B2,add,identity 'somewhat neutral'; AI useful given the right foundation
+P4@02:04,C3,remove,organisation trains its own system on its own content library; no consent issue
+P4@02:04,A2,add,AI now generates the content that was once made by hand
+P4@06:05,C2,remove,'copyrighting' = copywriting (transcription error)
+P4@07:19,C8,remove,Copilot named as a tool only; no data-protection or workplace rule
+P4@18:54,A2,remove,"'use it efficiently' is a condition for staying employable, not a gain"
+P4@18:54,B2,add,'they won't completely replace me' provided he keeps learning
+P4@19:30,B3,add,'still up to you to decide what it designs' = human judgement
+P4@21:16,A5,remove,negated: 'I don't need to learn any of it because AI can do it'
+P4@22:41,C2,remove,describes training exclusions; no call for new protection
+P4@22:41,C7,remove,"'legislation behind it' = existing law, not state action"
+P4@27:31,B2,remove,"'just a tool' used in the legal sense (inspiration vs copying), not about identity"
+P4@28:25,C6,remove,hit is in the interviewer's question merged into this block
+P5@07:17,C2,remove,"copyrighted music is a licensing constraint for game makers, not a call for protection"
+P5@16:58,A2,remove,"'automated' describes exposure to AI, not a gain"
+P5@18:44,B1,add,expects less need for human input in game development
+P5@20:17,A2,remove,"'being automated' framed as a blow, not a gain"
+P5@20:27,B3,add,pride in designing a game 'with your own knowledge'
+P5@20:43,A2,remove,contrast with automation; the point is the human contribution
+P5@21:28,B2,add,"AI first, then human touches: complementary use"
+P5@23:58,C2,remove,"describes ownership through authorship, not a call for new law"
+P5@23:58,C5,remove,'stolen' is hypothetical; no incident reported
+P6@17:41,C3,remove,"'AI training session' = a training course run with AI, not model training"
+P6@21:20,B3,add,'computers only do what [they] are told... humans'
+P6@24:05,B1,add,fear of robots doing human work in future
+P6@27:32,B3,remove,"about personal accountability for data, not authorship"
+P6@28:14,B3,remove,"'authentic' = organisational integrity, not human authorship"
+P6@28:50,B3,remove,'authentic to our values' = organisational integrity
+P6@32:03,B3,remove,values human and AI input alike; no claim about human authorship
+P7@02:58,A2,remove,"'automated' refers to the participant's own software, not generative AI"
+P7@16:27,A5,add,hiring now favours practical experience over formal training
+P7@16:49,A11,add,'most companies don't do that anymore' = no in-house training of juniors
+P7@17:19,A2,add,AI let him finish portfolio projects that used to take too long
+P7@19:00,A2,remove,"'more efficiently' describes replacing corporate staff, not a gain to him"
+P7@22:54,C2,remove,asserts ownership of the code base; not a call for protection
+P7@27:15,B3,remove,"about telling AI from human content (B6), not about the value of authorship"
+P8@06:06,A2,add,AI drafts the long captions for posts
+P8@14:38,A2,add,continues 14:24: ideas from AI make the job easier
+P9@11:31,A2,add,AI used to get the work done quickly under time pressure
+P10@02:44,C7,remove,"describes the department's funding role, not AI"
+P10@03:40,A3,remove,departmental remuneration policy for hired artists; not AI-related
+P10@08:40,A5,remove,'keep up the good work' (praise poetry)
+P10@20:50,C7,remove,introduces an example; no claim about state action
+P10@47:09,A3,remove,"about a bank for artists' finances, not client devaluation"
+P10@47:09,C7,add,national arts-economy initiative the province should adopt
+P11@09:28,A2,add,code answers now come straight from AI instead of forum searches
+P11@10:49,C4,remove,"'Licence' = Microsoft software licence, not ownership of output"
+P11@16:10,A2,remove,'legal efficiency' is a transcription fragment; question not answered

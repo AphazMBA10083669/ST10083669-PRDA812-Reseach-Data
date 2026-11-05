@@ -1,0 +1,10 @@
+resp_id,eligible,checks_triggered,form_version,years_exp,career_stage,loss_freq,comm_lost,income_change,ai_loss
+R01,False,no_AI_use_but_lists_purposes; failed_prof_screen_but_4+_yrs,v1,15+,"Established, 10+ yrs",2 = Almost Never/Rarely,0,No Change,No
+R02,True,lost_commissions_but_Q3.4_No; frequent_loss_but_Q3.4_No,v1,1–3,"Early-career, 0–3 yrs",4 = Frequently,3–5,No Change,No
+R07,True,career_stage_vs_years,v1,<1,"Established, 10+ yrs",1 = Never,0,No Change,No
+R08,False,failed_prof_screen_but_4+_yrs,v1,15+,"Established, 10+ yrs",1 = Never,0,No Change,No
+R11,False,lost_commissions_but_Q3.4_No; career_stage_vs_years,v1,1–3,"Established, 10+ yrs",1 = Never,3–5,Increased,No
+R12,False,failed_prof_screen_but_4+_yrs,v1,8–15,"Established, 10+ yrs",1 = Never,0,Increased,No
+R13,False,career_stage_vs_years,v1,1–3,"Mid-career, 4–10 yrs",4 = Frequently,More than 10,Decreased more than 40%,Yes
+R16,True,Q3.4_Yes_but_no_loss_elsewhere; career_stage_vs_years,v2,1–3,"Mid-career, 4–10 yrs",1 = Never,0,Increased,Yes
+R20,False,career_stage_vs_years,v2,<1,"Established, 10+ yrs",2 = Almost Never/Rarely,0,No Change,Yes

@@ -1,0 +1,7 @@
+Rule,Operational threshold,Status,Cases,Respondents,Effect
+Ineligible,"'No' to 18+, SA residence or professional practice",Applied,7,"R01, R06, R08, R11, R12, R13, R20",Removed (definitional)
+Duplicate,"Identical structured answers, ≤30 min apart",Applied,0,—,Later submission removed
+Speeding,< 40% of pilot median completion time,Not computable,—,—,Export has no start time
+Failed attention check,Instructed-response item answered wrongly,Not computable,—,—,Item missing from both versions
+Straight-lining,"Same option on every Likert item, Sections 2 & 4",Applied,0,—,Flag only
+Two-indicator rule,≥ 2 independent flags,Applied,0,—,Excluded

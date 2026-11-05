@@ -1,0 +1,85 @@
+seg_id,source,unit,question,eligible,tier,text,words,status
+S:R01:txt_work_income,Survey,R01,Q6.1 Work & income,False,original,,0,removed: blank
+S:R01:txt_identity,Survey,R01,Q6.2 Identity & purpose,False,original,,0,removed: blank
+S:R01:txt_protections,Survey,R01,Q6.3 Protections needed,False,original,I don't know.,3,kept
+S:R01:txt_other,Survey,R01,Q6.4 Anything else,False,original,No,1,removed: non-answer
+S:R02:txt_work_income,Survey,R02,Q6.1 Work & income,True,original,They prefer AI generated stuff,5,kept
+S:R02:txt_identity,Survey,R02,Q6.2 Identity & purpose,True,original,Well it gives people who don’t know the art a sense of knowing to the point they belittle our original creative efforts,22,kept
+S:R02:txt_protections,Survey,R02,Q6.3 Protections needed,True,original,All of them… as long as we are safe.,9,kept
+S:R02:txt_other,Survey,R02,Q6.4 Anything else,True,original,"It’s not perfect, I find myself having to reprompt just to finish 1 idea",14,kept
+S:R03:txt_work_income,Survey,R03,Q6.1 Work & income,True,original,"Less clients, poor quality and more copy rights",8,kept
+S:R03:txt_identity,Survey,R03,Q6.2 Identity & purpose,True,original,Poor quality,2,kept: short but on-topic (logged)
+S:R03:txt_protections,Survey,R03,Q6.3 Protections needed,True,original,To open an art bodies to protect works of artists,10,kept
+S:R03:txt_other,Survey,R03,Q6.4 Anything else,True,original,No -Not that much,4,removed: non-answer
+S:R04:txt_work_income,Survey,R04,Q6.1 Work & income,True,original,It has affected it negatively as many people would opt to use AI to do the work that I would normally do and charge money. That reduces the number of customers I would normally get.,35,kept
+S:R04:txt_identity,Survey,R04,Q6.2 Identity & purpose,True,original,I still believe in original authentic work produced by human. I have pride in my profession and work.,18,kept
+S:R04:txt_protections,Survey,R04,Q6.3 Protections needed,True,original,"I believe South African digital artists most need stronger copyright protection and clearer laws around the use of their work in generative AI. Artists should have control over how their artwork, photographs, and designs are used to train AI systems, and they should receive fair compensation when their work is used commercially. There should also be better protection against plagiarism, unauthorised copying, and the misuse of artists’ identities and styles. Clear industry guidelines, affordable legal support, and fair contracts would help digital artists protect their creative work and earn a sustainable income.",92,kept
+S:R04:txt_other,Survey,R04,Q6.4 Anything else,True,original,Nothing yet,2,removed: non-answer
+S:R05:txt_work_income,Survey,R05,Q6.1 Work & income,True,original,"I have four decades of digital art experience. There was no AI when I started. I use generative AI for experimentation, but my creative outputs still come from my own secret technique, which I developed in my twenties over thirty years ago. So AI hasn't replaced or redirected my work or my income. It's a tool I explore with, not the source of what I make. My technique predates it and remains mine.",73,kept
+S:R05:txt_identity,Survey,R05,Q6.2 Identity & purpose,True,original,"AI doesn't threaten my sense of identity as a creative professional. It reshapes the terrain I work on. The core of my identity isn't ""person who produces outputs"" but ""person who notices things, cares about them, and tries to say something true."" AI can generate variations, drafts, and options at scale, but it can't want anything. It can't care. The wanting and the caring are where my identity lives. If my purpose were purely throughput, churning out assets, AI would rightly destabilise that. But purpose in creative work has always been more about judgment, taste, and meaning making: knowing what's worth making, why it matters, and for whom. AI raises the floor on execution, which actually raises the ceiling on what's expected of taste and intention. That's uncomfortable, but it's not nihilistic.",132,kept
+S:R05:txt_protections,Survey,R05,Q6.3 Protections needed,True,original,"All my work is and has been protected by international copyright law, long before AI existed. On the impact, I recently had someone feed a magazine PDF, a magazine I write for, into AI. This person fed the PDF, my work, into AI and regenerated anime images and text without the magazine or my permission. It was plagiarism to the hilt. We will be suing this individual.",67,kept
+S:R05:txt_other,Survey,R05,Q6.4 Anything else,True,original,No,1,removed: non-answer
+S:R06:txt_work_income,Survey,R06,Q6.1 Work & income,False,outside,I find it as a tool that assists rather than threaten my work,13,kept
+S:R06:txt_identity,Survey,R06,Q6.2 Identity & purpose,False,outside,I personally believe if these tools were around a few years ago I'd be so far in life,18,kept
+S:R06:txt_protections,Survey,R06,Q6.3 Protections needed,False,outside,Copyright protection,2,kept: short but on-topic (logged)
+S:R06:txt_other,Survey,R06,Q6.4 Anything else,False,outside,That Artificial Intelligence is if you work with it not against it,12,kept
+S:R07:txt_work_income,Survey,R07,Q6.1 Work & income,True,original,Not so much,3,kept
+S:R07:txt_identity,Survey,R07,Q6.2 Identity & purpose,True,original,I need to keep up with AI to make my work better and easier.,14,kept
+S:R07:txt_protections,Survey,R07,Q6.3 Protections needed,True,original,Intellectual Property Law,3,kept
+S:R07:txt_other,Survey,R07,Q6.4 Anything else,True,original,No,1,removed: non-answer
+S:R08:txt_work_income,Survey,R08,Q6.1 Work & income,False,original,Clients have gotten lazy and think that what we do as Creatives can be done by machines.,17,kept
+S:R08:txt_identity,Survey,R08,Q6.2 Identity & purpose,False,original,"I hate that if left unmonitored by the user, it can make one lazy to think. Because the ""answers"" are there for the taking. For free.",26,kept
+S:R08:txt_protections,Survey,R08,Q6.3 Protections needed,False,original,"I think the government has to implement legal recourse for Creatives if their work, likeness and IP is ""stolen"" or borrowed - and reproduced as something different on AI generating platforms. Secondly, all creative work that is not human-made should be labeled as such. In the same way that the cigarette producers are forced to label the dangers of cigarettes on the packs.",63,kept
+S:R08:txt_other,Survey,R08,Q6.4 Anything else,False,original,No,1,removed: non-answer
+S:R09:txt_work_income,Survey,R09,Q6.1 Work & income,True,expanded,"1 I can work thru more options on the same concept. Generating more conceptual work. 2 the turnaround time is much faster and frees my time to look for clients or other work and often it can be done with prompts from the client requests. 3 rendering engines throw up sometimes options I would not have considered. Research is also carried out in the background without over me pouring over mountains of data. The integration with my design software also prompts me to look at the best case practices from around the world. 4 material costs for rendering are down, no color pencils markers papers etc. Sketch book photograph my sketch upload to ChatGPT or midjourney and my sketch is fully rendered in minutes. A lot of time saving. I have examples of this and a workflow that I can demonstrate to u.",143,kept
+S:R09:txt_identity,Survey,R09,Q6.2 Identity & purpose,True,expanded,"It will improve and AI cannot replace your identity, or style as an artist, it just makes u more effecient",20,kept
+S:R09:txt_protections,Survey,R09,Q6.3 Protections needed,True,expanded,"The work generated belongs to u, and the prompts that u use to generate the artwork belong to u.",19,kept
+S:R09:txt_other,Survey,R09,Q6.4 Anything else,True,expanded,"Writing up reports 1 the generic templates are a great starting point, however they cannot envision every scenario. Hence it is a great starting point but u still need to use ur brain to tell AI what to do.",39,kept
+S:R10:txt_work_income,Survey,R10,Q6.1 Work & income,True,original,"Mostly, i have had to imvestigate where the hype is warranted, and where it isnt. I feel i need to work quite hard to keep up with the pace of development in order to understand what these tools actually can and can't do, and what i might need to learn im order to stay employable",55,kept
+S:R10:txt_identity,Survey,R10,Q6.2 Identity & purpose,True,original,"I mostly worry about reputational damage from using AI at all in my own work -- many people feel strongly that it has no place in art at all, and i have some sympathy and understanding of that view. That said, this is an industry and has capitalist incentives, and i feel realistically some form of AI use will simply be a part of participating in capitalism in the future. So, in terms of identity -- i feel ai efficiencies push me to either embrace capitalist logic i don't fully align with, or reject ai and capitalism altogether and live in the woods (this is to say, it is a minor identity crisis)",113,kept
+S:R10:txt_protections,Survey,R10,Q6.3 Protections needed,True,original,"Definitely strong IP protection for the original work of artists, and a clear path for compensation for that work if used in AI training and inference, with consent. I think this applies to all fields",35,kept
+S:R10:txt_other,Survey,R10,Q6.4 Anything else,True,original,No,1,removed: non-answer
+S:R11:txt_work_income,Survey,R11,Q6.1 Work & income,False,original,More clients are moving to AI tog their work done,10,kept
+S:R11:txt_identity,Survey,R11,Q6.2 Identity & purpose,False,original,Highly impacted,2,kept: short but on-topic (logged)
+S:R11:txt_protections,Survey,R11,Q6.3 Protections needed,False,original,It will be very difficult to regulate AI,8,kept
+S:R11:txt_other,Survey,R11,Q6.4 Anything else,False,original,No,1,removed: non-answer
+S:R12:txt_work_income,Survey,R12,Q6.1 Work & income,False,original,"Has allowed us to be better, faster and more efficient.",10,kept
+S:R12:txt_identity,Survey,R12,Q6.2 Identity & purpose,False,original,Allows us to improve our work dramatically.,7,kept
+S:R12:txt_protections,Survey,R12,Q6.3 Protections needed,False,original,Understanding how to protect their work.,6,kept
+S:R12:txt_other,Survey,R12,Q6.4 Anything else,False,original,People need to look at how they can work with AI rather than work against it. Meaning they shouldn't fight it and pretend it will go away. AI is here to stay everyone needs to adapt and look at how it can help people do their jobs better.,48,kept
+S:R13:txt_work_income,Survey,R13,Q6.1 Work & income,False,original,"It challenges the standaed of work but at the same time, it makes me question whether my renders are different then the other user working with a similar concept that I am currently undergoing at that particular time.",38,kept
+S:R13:txt_identity,Survey,R13,Q6.2 Identity & purpose,False,original,I feel cofused.,3,kept
+S:R13:txt_protections,Survey,R13,Q6.3 Protections needed,False,original,I dont know.,3,kept
+S:R13:txt_other,Survey,R13,Q6.4 Anything else,False,original,Make more of these platforms more cost effective so we can be able to explore on whether we need them or not.,22,kept
+S:R14:txt_work_income,Survey,R14,Q6.1 Work & income,True,expanded,AI has allowed me go into more complex designs and creations. It has overall positively affected my work and income over the past year,24,kept
+S:R14:txt_identity,Survey,R14,Q6.2 Identity & purpose,True,expanded,At times it can be frustrating since AI is continuously improving which can result in parts of my work being taken over but it can also aid me in being quicker which makes me feel like I can do much better than I usually would,45,kept
+S:R14:txt_protections,Survey,R14,Q6.3 Protections needed,True,expanded,They should be able to legally have their creations in the name and not allowed to be edited or tampered by AI,22,kept
+S:R14:txt_other,Survey,R14,Q6.4 Anything else,True,expanded,"Ultimately though it raises concerns on whether it will increase unemployment, in some field such as mine it can become more of a working tool as compared to a thorn in my work",33,kept
+S:R15:txt_work_income,Survey,R15,Q6.1 Work & income,True,expanded,I have been able to overcome time bottle necks that I used to hit constantly before. It also let me adapt and get into new skills faster than I would have in the past.,34,kept
+S:R15:txt_identity,Survey,R15,Q6.2 Identity & purpose,True,expanded,I don't feel it has had much of an effect on it. I am still able to use my style even when using AI to make projects,27,kept
+S:R15:txt_protections,Survey,R15,Q6.3 Protections needed,True,expanded,I don't feel there are any that are absolutely needed. Possibly something that says you can't claim art in a one to one fashion.,24,kept
+S:R15:txt_other,Survey,R15,Q6.4 Anything else,True,expanded,"AI has helped achieve what can be done with smaller amounts of effort. This could lead to smaller teams of ""pros"" in future, but it also means that more people will be able to share their creative ideas in spaces they needed great skill to do so before",48,kept
+S:R16:txt_work_income,Survey,R16,Q6.1 Work & income,True,expanded,Overall its improved time management,5,kept
+S:R16:txt_identity,Survey,R16,Q6.2 Identity & purpose,True,expanded,"its helped me really dig into the fundamental foundations of building a solid base for the various systems that I require in my job line of work , regardless of all the work AI does human intervention is still needed ,",41,kept
+S:R16:txt_protections,Survey,R16,Q6.3 Protections needed,True,expanded,"we should be able to protect what we create not only at high price charges , when we start something small we should be able to have a trail that links all generated work back to the content creator.",39,kept
+S:R16:txt_other,Survey,R16,Q6.4 Anything else,True,expanded,I only wish that we are able to generate a coding that links all generated work to the content creator without having to pay such high fees in the beginning,30,kept
+S:R17:txt_work_income,Survey,R17,Q6.1 Work & income,True,expanded,I believe it has assisted me in completing my tasks,10,kept
+S:R17:txt_identity,Survey,R17,Q6.2 Identity & purpose,True,expanded,"It's an eye sore when you see marketing generated with full AI, so it inspires me to use AI less",20,kept
+S:R17:txt_protections,Survey,R17,Q6.3 Protections needed,True,expanded,unsure,1,kept: short but on-topic (logged)
+S:R17:txt_other,Survey,R17,Q6.4 Anything else,True,expanded,"not really, I don't use it that often so it doesn't necessarily affect my work, but seeing the poor use of AI leads to people saying AI is taking jobs, which is not the facts",35,kept
+S:R18:txt_work_income,Survey,R18,Q6.1 Work & income,True,expanded,"AI helps a lot in my work field, I created content faster",12,kept
+S:R18:txt_identity,Survey,R18,Q6.2 Identity & purpose,True,expanded,It helps to see a clear vision of what you are thinking about or what you are trying to achieve,20,kept
+S:R18:txt_protections,Survey,R18,Q6.3 Protections needed,True,expanded,,0,removed: blank
+S:R18:txt_other,Survey,R18,Q6.4 Anything else,True,expanded,No,1,removed: non-answer
+S:R19:txt_work_income,Survey,R19,Q6.1 Work & income,True,expanded,"Generative AI has affected my work in a positive manner. This has helped me ship products faster. In terms of income, it has helped me make more than what I used to because I don't really need to outsource nor hire candidates for specific roles.",45,kept
+S:R19:txt_identity,Survey,R19,Q6.2 Identity & purpose,True,expanded,The impact AI has had on my identity and sense of purpose is somewhat neutral. I believe AI is changing the creative industry only if you have the right foundation and know how to use it.,36,kept
+S:R19:txt_protections,Survey,R19,Q6.3 Protections needed,True,expanded,Copyrighting,1,kept: short but on-topic (logged)
+S:R19:txt_other,Survey,R19,Q6.4 Anything else,True,expanded,Not at the moment,4,removed: non-answer
+S:R20:txt_work_income,Survey,R20,Q6.1 Work & income,False,expanded,No impact - am in corporate,6,kept
+S:R20:txt_identity,Survey,R20,Q6.2 Identity & purpose,False,expanded,Not threatened,2,kept: short but on-topic (logged)
+S:R20:txt_protections,Survey,R20,Q6.3 Protections needed,False,expanded,Copyright laws ans enforcement,4,kept
+S:R20:txt_other,Survey,R20,Q6.4 Anything else,False,expanded,No,1,removed: non-answer
+S:R21:txt_work_income,Survey,R21,Q6.1 Work & income,True,expanded,Improved turnaround times for delivery of expected products,8,kept
+S:R21:txt_identity,Survey,R21,Q6.2 Identity & purpose,True,expanded,"Collaborative, designing prompts has also been the best experience to achieve the desired goal",14,kept
+S:R21:txt_protections,Survey,R21,Q6.3 Protections needed,True,expanded,"Consulting with experts when it comes to IP protection, trademarking, and also industrial designs, patents, copyright.",16,kept
+S:R21:txt_other,Survey,R21,Q6.4 Anything else,True,expanded,How do we benefit from the design promote and institutionalise revenue generation from AI,14,kept

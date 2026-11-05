@@ -1,0 +1,15 @@
+term,valence,justification
+slop,-1.5,"pejorative term for mass-produced, low-quality AI output"
+plagiarism,-2.0,unauthorised copying; aligned with base 'stolen' (-2.2)
+plagiarised,-2.0,as above
+theft,-2.2,aligned with base 'stolen' (-2.2)
+redundant,-1.5,job-loss sense in labour-market talk
+redundancy,-1.5,as above
+displaced,-1.5,worker displacement by automation
+displacement,-1.5,as above
+replaced,-1.5,artist replaced by AI; VADER's negation rule handles 'not replaced'
+replace,-1.0,weaker base form of the above
+devalued,-1.8,loss of perceived worth of creative labour
+undercut,-1.5,price competition from AI alternatives
+scraped,-1.0,training data collected without consent
+faster,1.0,"turnaround gain, positive from the practitioner's own standpoint"

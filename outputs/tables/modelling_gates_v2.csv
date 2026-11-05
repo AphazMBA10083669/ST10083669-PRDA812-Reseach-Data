@@ -1,0 +1,4 @@
+Sample,n,Events (Q3.4 = Yes),Prevalence,Events per parameter (6),Penalised regression + tree,Outcome split,Tier-2 ordinal model (> 80:20)
+Original scope (n=6),6,2,33%,0.33,ABANDONED — ICE 1 contingency (n < 50 at close),67% : 33%,not triggered
+Eligible (n=14),14,4,29%,0.67,ABANDONED — ICE 1 contingency (n < 50 at close),71% : 29%,not triggered
+All submissions (n=21),21,6,29%,1.0,ABANDONED — ICE 1 contingency (n < 50 at close),71% : 29%,not triggered

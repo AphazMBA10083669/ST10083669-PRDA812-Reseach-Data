@@ -1,0 +1,43 @@
+pid,q,status,ts,note,section,covered
+P1,A0,asked,02:42,,Opening,True
+P1,A1,adapted,04:33,asked about work before AI rather than how it changed,Income & displacement,True
+P1,A2,asked,06:57,,Income & displacement,True
+P1,A3,asked,09:10,,Income & displacement,True
+P1,A4,asked,09:57,,Income & displacement,True
+P1,A5,asked,10:57,,Income & displacement,True
+P1,A6,skipped,12:38,judged already answered,Creative identity,False
+P1,A7,adapted,13:02,re-asked at 14:04 with a positively framed prompt,Creative identity,True
+P1,A8,skipped,16:14,judged already answered,Creative identity,False
+P1,A9,asked,16:14,,Legal protection,True
+P1,A10,not asked,,,Legal protection,False
+P1,A11,asked,17:07,,Legal protection,True
+P1,A12,not asked,,replaced by an unscripted question on work quality (17:47),Client perception,False
+P1,A13,asked,19:24,,Closing,True
+P2,A0,asked,03:28,,Opening,True
+P2,A1,asked,07:21,,Income & displacement,True
+P2,A2,asked,11:11,,Income & displacement,True
+P2,A3,asked,12:58,,Income & displacement,True
+P2,A4,not asked,,process change partly covered under A1,Income & displacement,False
+P2,A5,asked,17:10,,Income & displacement,True
+P2,A6,skipped,21:47,judged already answered,Creative identity,False
+P2,A7,asked,21:47,,Creative identity,True
+P2,A8,asked,24:07,,Creative identity,True
+P2,A9,asked,25:35,,Legal protection,True
+P2,A10,asked,26:38,,Legal protection,True
+P2,A11,asked,27:55,,Legal protection,True
+P2,A12,"started, dropped",29:28,judged not applicable: studio serves international clients,Client perception,False
+P2,A13,asked,30:08,,Closing,True
+P3,A0,asked,00:34,,Opening,True
+P3,A1,not asked,,covered within the A0 career account,Income & displacement,False
+P3,A2,adapted,09:12,re-framed for a city department,Income & displacement,True
+P3,A3,not asked,,,Income & displacement,False
+P3,A4,not asked,,,Income & displacement,False
+P3,A5,not asked,,,Income & displacement,False
+P3,A6,asked,10:50,,Creative identity,True
+P3,A7,not asked,,,Creative identity,False
+P3,A8,asked,15:26,,Creative identity,True
+P3,A9,adapted,18:21,broadened to laws architects must follow,Legal protection,True
+P3,A10,not asked,,raised unprompted at 21:31,Legal protection,False
+P3,A11,not asked,,,Legal protection,False
+P3,A12,not asked,,,Client perception,False
+P3,A13,asked,24:14,,Closing,True

@@ -1,0 +1,17 @@
+Item,Answer,v2 eligible (n=7),v2 all (n=8)
+Q1.11 Main source of work or income,A single employer or company (salary),3,3
+Q1.11 Main source of work or income,Corporate assignments ,0,1
+Q1.11 Main source of work or income,Direct clients (individuals or businesses),3,3
+Q1.11 Main source of work or income,"Online marketplaces, print-on-demand or stock sites",1,1
+Q1.5 Also works in,Design & built environment,4,4
+Q1.5 Also works in,Independent & other,2,2
+Q1.5 Also works in,Marketing & content,4,4
+Q2.8 Employer/client has a written AI policy,No,3,3
+Q2.8 Employer/client has a written AI policy,Not Sure,1,1
+Q2.8 Employer/client has a written AI policy,Yes,3,4
+Q3.8 How AI changed role or team (employed),Fewer junior or entry-level roles,1,2
+Q3.8 How AI changed role or team (employed),My responsibilities or workload increased,1,2
+Q3.8 How AI changed role or team (employed),My responsibilities or workload reduced,4,4
+Q3.8 How AI changed role or team (employed),No noticeable change,2,2
+Q3.8 How AI changed role or team (employed),Team size reduced or positions not replaced,1,1
+Q4.7 Knows what to disclose about AI use (1–5),agree (4–5),3,4

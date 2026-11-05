@@ -1,0 +1,9 @@
+Item,v1 (R01–R13),v2 (R14–R21),Harmonisation rule
+Screening Q3 (professional practice),"digital artist/animator, past 5 years","digital creative work, past 3 years",Eligibility taken as answered; the version flag records which wording applied
+Q1.4 main occupation,"illustration, concept art, animation sub-fields + write-ins","adds design, social media & content, independent & platform-based, architecture",Grouped into 7 sub-field groups and 3 scope tiers (original = ICE 1 population; expanded; outside)
+Q1.7 employment type,3 options,"5 options (in-house, studio/agency, own business, government, mixed)",Harmonised to Employed / Independent or own business / Mixed
+"Q2.3 purposes, Q2.5 tools",short option list,longer list; several options contain commas,"Matched against known option strings, not split on commas; v2-only options missing for v1 rows"
+Q2.4 peer adoption,1–5 numbers,top point labelled '5 - Very widely',Leading digit
+Q3.5 lowered rates,Yes / No,adds 'Not applicable (I am salaried)' and 'Considering it',Not applicable → missing; Considering it → No
+Q5.1–Q5.7 identity items,text labels,text labels or 1–5 numbers,Both mapped to 1–5
+"Q1.5, Q1.11, Q2.8, Q3.8, Q4.7",not asked,new items,Analysed for v2 respondents only (section 5.4)

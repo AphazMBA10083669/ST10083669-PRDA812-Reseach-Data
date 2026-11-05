@@ -1,0 +1,11 @@
+Hypothesis / predictor,Sample,n,Loss | exposed,Loss | not exposed,Test,p (two-sided),OR,Cramér's V
+H1a  Uses AI often/very often (Q2.2 ≥ 4),Eligible (n=14),14,2/11,2/3,Fisher's exact,0.176,0.11,0.44
+H1a  Uses AI often/very often (Q2.2 ≥ 4),All submissions (n=21),21,2/15,4/6,Fisher's exact,0.031,0.08,0.53
+H1b  Sees high adoption in field (Q2.4 ≥ 4),Eligible (n=14),14,3/10,1/4,Fisher's exact,1.0,1.29,0.05
+H1b  Sees high adoption in field (Q2.4 ≥ 4),All submissions (n=21),21,4/14,2/7,Fisher's exact,1.0,1.0,0.0
+H2   Early/mid-career (vs established),Eligible (n=14),14,4/9,0/5,Fisher's exact,0.221,9.0,0.47
+H2   Early/mid-career (vs established),All submissions (n=21),21,5/11,1/10,Fisher's exact,0.149,7.5,0.39
+H3a  Aware of legal protections (Q4.1 ≥ 4),Eligible (n=14),14,1/8,3/6,Fisher's exact,0.245,0.14,0.41
+H3a  Aware of legal protections (Q4.1 ≥ 4),All submissions (n=21),21,2/12,4/9,Fisher's exact,0.331,0.25,0.3
+"H3b  Working legal knowledge (mean Q4.2, Q4.5 ≥ 4)",Eligible (n=14),14,1/4,3/10,Fisher's exact,1.0,0.78,0.05
+"H3b  Working legal knowledge (mean Q4.2, Q4.5 ≥ 4)",All submissions (n=21),21,1/6,5/15,Fisher's exact,0.623,0.4,0.17

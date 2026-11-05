@@ -1,0 +1,5 @@
+Scale,Sample,n,Cronbach's α,Bootstrap 95% CI,Min corrected item–total r,Weakest item
+Creative-identity threat (Q5.1–5.4),Eligible (n=14),14,0.86,"[0.64, 0.94]",0.52,id_pride_changed
+Creative-identity threat (Q5.1–5.4),All submissions (n=21),21,0.84,"[0.65, 0.93]",0.43,id_pride_changed
+"Legal knowledge (Q4.1, 4.2, 4.5)",Eligible (n=14),14,0.77,"[0.31, 0.94]",0.42,leg_aware
+"Legal knowledge (Q4.1, 4.2, 4.5)",All submissions (n=21),21,0.73,"[0.41, 0.88]",0.49,leg_know_steps
